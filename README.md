@@ -21,4 +21,5 @@ The Airline database comprises several key tables:
 - **seats**: Holds details about seat availability and fare conditions on various aircraft.
 
 ## Database ER Diagram
+![Schema - Airline DB](https://github.com/user-attachments/assets/95c71c2a-bf1d-411c-8a89-b7a20b15a7a7)
 
